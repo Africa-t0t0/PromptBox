@@ -1,0 +1,9 @@
+[submodule "promptbox_backend"]
+	path = promptbox_backend
+	url = https://github.com/Africa-t0t0/promptbox_backend.git
+[submodule "prompbox-frontend"]
+	path = prompbox-frontend
+	url = https://github.com/Africa-t0t0/prompbox-frontend.git
+[submodule "auth-server"]
+	path = auth-server
+	url = https://github.com/Africa-t0t0/auth-server.git
